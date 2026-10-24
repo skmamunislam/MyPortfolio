@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://mamun000.github.io/MyPortfolio/sitemap.xml
+Sitemap: https://skmamunislam.github.io/MyPortfolio/sitemap.xml
